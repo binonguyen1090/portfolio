@@ -4006,3 +4006,27 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+	 .scrollya {
+    text-decoration: underline;
+    font-weight: 700;
+    /* padding-bottom: 40px; */
+    /* color: black; */
+  }
+ #formbox {
+     margin-left: 175px;
+  }
+
+  .fields {
+    border: 2px solid white;
+	border-radius: 5px; }
+	
+.field.top{
+	padding: 30px 30px 0 30px;
+}
+.field.middle {
+	padding: 10px 30px 0 30px;
+}
+.field.bottom {
+	padding: 10px 30px 30px 30px;
+}
